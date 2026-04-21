@@ -91,6 +91,14 @@ section#login > div#formulario{
     padding: 2px;
 }
 
+#isenha{
+    width: 70%;
+   }
+
+   #iemail{
+    width: 70%;
+   }
+
 .material-symbols-outlined{
     vertical-align: middle;
 }

@@ -44,6 +44,14 @@
     padding: 2.5px;
    }
 
+   #isenha{
+    width: 60%;
+   }
+
+   #iemail{
+    width: 60%;
+   }
+
 }
 
 @media screen and (min-width:769px) and (max-width:1024px){
@@ -85,6 +93,14 @@
 
     #reset{
     padding: 3px;
+   }
+
+   #isenha{
+    width: 60%;
+   }
+
+   #iemail{
+    width: 60%;
    }
 }
 
@@ -128,6 +144,14 @@
    #reset{
     padding: 4px;
    }
+
+   #isenha{
+    width: 50%;
+   }
+
+   #iemail{
+    width: 50%;
+   }
 }
 
 @media screen and (min-width:1201px){
@@ -169,5 +193,13 @@
 
    #reset{
     padding: 5px;
+   }
+
+   #isenha{
+    width: 60%;
+   }
+
+   #iemail{
+    width: 60%;
    }
 }
